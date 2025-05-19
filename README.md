@@ -4,7 +4,15 @@
 
 ## 🖥️ 畫面截圖
 
-（這裡你可以放幾張 app 頁面的截圖）
+![image](https://github.com/user-attachments/assets/d3427716-3f3e-49bf-877e-9eb9a6980486)
+
+![image](https://github.com/user-attachments/assets/edb91448-d677-4d5b-bc1b-0f4daaf6c3f3)
+
+![image](https://github.com/user-attachments/assets/d20b07b2-8ffb-4100-8647-e383a1b6a7c4)
+
+![image](https://github.com/user-attachments/assets/fe3f4569-8503-4ec2-8aff-143f59ba856b)
+
+
 
 ## 📝 功能
 
@@ -13,7 +21,7 @@
 - 自訂花費類別
 - 可識別裝置深色/淺色模式並轉換
 - 可儲存並回復誤刪的支出
-- 多平台支援：Android / iOS / Web / Windows / macOS
+- 多平台支援：Android / iOS
 
 ## 🔧 技術使用
 
