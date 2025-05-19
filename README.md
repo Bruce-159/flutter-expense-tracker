@@ -9,8 +9,7 @@
 <img src="https://github.com/user-attachments/assets/c5c3e4b1-0f20-460d-ac68-94f8e4938d53" width="200">
 <img src="https://github.com/user-attachments/assets/96776f60-529a-42f9-bf0d-05fcecaa5d82" width="200">
 <img src="https://github.com/user-attachments/assets/d20b07b2-8ffb-4100-8647-e383a1b6a7c4" width="200">
-<img src="https://github.com/user-attachments/assets/fe3f4569-8503-4ec2-8aff-143f59ba856b" width="200">
-
+<img src="https://github.com/user-attachments/assets/16598157-cbd7-48ed-a686-0b11c0a9edc8" width="200">
 
 
 
@@ -28,7 +27,7 @@
 - Flutter
 - Dart
 - 自製 Chart 元件
-- Local state 管理（無使用第三方套件）
+- Local state 管理
 
 ## 📦 如何使用
 
